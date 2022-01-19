@@ -10,9 +10,7 @@
 - 开源，方便按自己的需求修改源码
 
 ## 预览
-![top](./top.png)  
-![bottom](./bottom.png)
-![3d](./3d.png)
+![3d](./images/3d.png)
 
 ## 硬件及软件授权
 本仓库所有软件和硬件在GPL v3+下授权，如果您修改了其中任何一部分，请提供修改后的源码。本产品软件及硬件开源，只限于研究使用，不得用于商用。商用请付费获得授权，否则将追究责任。
@@ -25,6 +23,6 @@
 
 ## 支持及赞助
 如果您想支持我的工作，可以参与贡献或打赏支持。您可以选择出现或不出现在赞助列表。
-![alipay](alipay.jpg)
-![wechatpay](wechatpay.jpg)
+![alipay](./donate/alipay.jpg)
+![wechatpay](./donate/wechatpay.jpg)
 
