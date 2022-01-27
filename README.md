@@ -23,6 +23,7 @@
 
 ## 支持及赞助
 如果您想支持我的工作，可以参与贡献或打赏支持。您可以选择出现或不出现在赞助列表。
-![alipay](./donate/alipay.jpg)
-![wechatpay](./donate/wechatpay.jpg)
+<br>
+<img src="./donate/alipay.jpg" width="50%" style="float:left">
+<img src="./donate/wechatpay.jpg" width="50%" style="float:left">
 
