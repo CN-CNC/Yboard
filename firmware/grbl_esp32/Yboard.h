@@ -26,3 +26,6 @@
 #define LASER_OUTPUT_PIN        GPIO_NUM_4   // labeled SpinPWM
 
 #define COOLANT_MIST_PIN        GPIO_NUM_2
+#define COOLANT_FLOOD_PIN        GPIO_NUM_2
+
+#define CONTROL_SAFETY_DOOR_PIN GPIO_NUM_36
