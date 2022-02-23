@@ -1,5 +1,7 @@
 # Yboard
-4轴CNC主板，3D打印主板，支持Grbl和Marlin。
+4轴CNC主板，3D打印主板，支持Grbl和Marlin。  
+
+这个项目是用立创EDA设计并导出的，我开源的原始工程可以[点击这里](https://oshwhub.com/renyufei/xie-zi-ji-diao-ke-ji_copy_copy_copy_copy_copy_copy_copy)
 
 ## 特色
 - 支持WIFI和Bluetooth远程控制
