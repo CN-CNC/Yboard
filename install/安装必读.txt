@@ -1,0 +1,5 @@
+1.用USB连接主板和电脑
+2.点击erase.bat擦除整个flash（注意会删除flash上所有文件！！！）
+3.按需求安装相应固件
+  install_grbl_esp32.bat安装CNC固件，install_marlin.bat对应3D打印固件
+
